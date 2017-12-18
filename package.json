@@ -3,13 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "screenfull": "^3.3.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "live-server": "^1.2.0"
   },
   "scripts": {
-    "watch:browser": "live-server dist --browser=chrome --watch=/"
+    "watch:browser": "live-server dist --watch=/"
   }
 }
